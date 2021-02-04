@@ -1,0 +1,13 @@
+A:\curs MTA\Programes\ConsoleApp57\ConsoleApp57\bin\Debug\netcoreapp3.1\ConsoleApp57.exe
+A:\curs MTA\Programes\ConsoleApp57\ConsoleApp57\bin\Debug\netcoreapp3.1\ConsoleApp57.deps.json
+A:\curs MTA\Programes\ConsoleApp57\ConsoleApp57\bin\Debug\netcoreapp3.1\ConsoleApp57.runtimeconfig.json
+A:\curs MTA\Programes\ConsoleApp57\ConsoleApp57\bin\Debug\netcoreapp3.1\ConsoleApp57.runtimeconfig.dev.json
+A:\curs MTA\Programes\ConsoleApp57\ConsoleApp57\bin\Debug\netcoreapp3.1\ConsoleApp57.dll
+A:\curs MTA\Programes\ConsoleApp57\ConsoleApp57\bin\Debug\netcoreapp3.1\ConsoleApp57.pdb
+A:\curs MTA\Programes\ConsoleApp57\ConsoleApp57\obj\Debug\netcoreapp3.1\ConsoleApp57.csprojAssemblyReference.cache
+A:\curs MTA\Programes\ConsoleApp57\ConsoleApp57\obj\Debug\netcoreapp3.1\ConsoleApp57.AssemblyInfoInputs.cache
+A:\curs MTA\Programes\ConsoleApp57\ConsoleApp57\obj\Debug\netcoreapp3.1\ConsoleApp57.AssemblyInfo.cs
+A:\curs MTA\Programes\ConsoleApp57\ConsoleApp57\obj\Debug\netcoreapp3.1\ConsoleApp57.csproj.CoreCompileInputs.cache
+A:\curs MTA\Programes\ConsoleApp57\ConsoleApp57\obj\Debug\netcoreapp3.1\ConsoleApp57.dll
+A:\curs MTA\Programes\ConsoleApp57\ConsoleApp57\obj\Debug\netcoreapp3.1\ConsoleApp57.pdb
+A:\curs MTA\Programes\ConsoleApp57\ConsoleApp57\obj\Debug\netcoreapp3.1\ConsoleApp57.genruntimeconfig.cache
